@@ -26,3 +26,9 @@ tags:
 ![[Dynamic Implementation of P and G.png#pic_center|动态逻辑中间信号产生电路]]
 - Precharge when $\mathrm{Clk} = 0$
 - [[Bleeder]] to compensate for the [[Charge Leakage]] due to the pull-down leakage paths
+
+# 4-Bit Manchester carry Chain
+
+- Uses pass transistors for carry chain
+- All pass transistors are precharged to $V_{DD}(\phi=0)$
+![[Pasted image 20241029035326.png#pic_center|4-Bit Manchester carry Chain]]

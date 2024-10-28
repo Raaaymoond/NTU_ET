@@ -9,12 +9,10 @@ tags:
 
 ![[Carry-Select Adder_1.png#pic_center|进位选择加法器]]
 
-# 特点
-
 - Both 0 and 1 carry bits are generated.
 - Once carry from previous stage is known, the carry from this stage is selected with MUX.
 
-# 实现
+# Carry-Select Adders
 
 - [[Linear Carry-Select Adder]]
 - [[Square-Root Carry-Select Adder]]

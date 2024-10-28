@@ -1,14 +1,15 @@
 ---
-aliases:
-  - 设计综合
+aliases: []
 tags:
   - digital_circuits
+  - design_synthesis
 ---
-Design Synthesis can be defined as the transformation between two different design views (abstracts)
 
-Typically it is a transformation from a behavioural specification into a structural description
+![[Overview of Design Synthesis.png|Overview of Design Synthesis]]
 
-Three kinds of synthesis are discussed:
-- [[Circuit Synthesis]]
-- [[Logic Synthesis]]
-- [[Architecture Synthesis]]
+- Design Synthesis can be defined as the transformation between two different design views (abstracts)
+- Typically it is a transformation from a behavioural specification into a structural description
+- Three kinds of synthesis are discussed:
+	- [[Circuit Synthesis]]
+	- [[Logic Synthesis]]
+	- [[Architecture Synthesis]]

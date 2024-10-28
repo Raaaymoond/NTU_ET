@@ -4,12 +4,13 @@ aliases:
 tags:
   - multiplier
   - digital_circuits
+  - arthmetic_modules
 ---
-![[Bit-Serial Multiplier.png]]
+![[Bit-Serial Multiplier.png#pic_center|Bit-Serial Multiplier]]
+![[Pasted image 20241029041648.png#pic_center|]]
+$$Q=M\times A$$
 
-用竖式模拟二进制乘法完成计算。
-
-与门用来产生[[Partial Products|部分积]]：
+- 与门用来产生[[Partial Products|部分积]]：
 ```verilog
 and_out = M & {6{Q[0]}};
 ```

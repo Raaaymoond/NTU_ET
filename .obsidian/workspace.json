@@ -81,16 +81,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Manchester Carry Gates.md",
+                "file": "课件/EE6306/Ivan/Ivan Lecture Slides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manchester Carry Gates"
+              "title": "Ivan Lecture Slides"
+            }
+          },
+          {
+            "id": "f5b2762dca34bca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clock Gating"
+            }
+          },
+          {
+            "id": "0136bf9749a51899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课件/EE6306/Ivan/Ivan Lecture Slides.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ivan Lecture Slides"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Manchester Carry Gates.md",
+                "file": "课件/EE6306/Ivan/Ivan Lecture Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Manchester Carry Gates 的反向链接列表"
+              "title": "Ivan Lecture Slides 的反向链接列表"
             }
           },
           {
@@ -230,54 +258,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d5c9b7c8123bc01",
+  "active": "0136bf9749a51899",
   "lastOpenFiles": [
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Manchester Carry Gates.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Adder.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Architecture Synthesis.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Module Allocation/Module Allocation.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Interconnect Allocation/Interconnect Allocation.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Register Allocation.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Pasted image 20241029052908.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Pasted image 20241029052846.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Operation Scheduling.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Pasted image 20241029052739.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Pasted image 20241029052719.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Pasted image 20241029052658.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Pasted image 20241029052640.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Flow Graph/Data Flow Graph.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Flow Graph/Data Flow Graph.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Design Synthesis.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Logic Synthesis/Pasted image 20241029052317.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Logic Synthesis/Pasted image 20241029052225.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Logic Synthesis/Pasted image 20241029052049.png",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Circuit Synthesis.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Transistor Sizing/Transistor Sizing.md",
+    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Derivation of Transistor Netlist/Derivation of Transistor Netlist.md",
     "课件/EE6306/Ivan/Ivan Lecture Slides.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Shifter.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Logical Shift/Logical Shift.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Arithmetic Shift/Arithmetic Shift.md",
-    "单纯的，知识/Digital Circuits/Digital Circuits Basis/Dynamic Logic/Charge Leakage/Bleeder/Bleeder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Transmission-Gate-Based Adder/Transmission-Gate-Based Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Transmission-Gate-Based Adder/Transmission-Gate-Based Adder.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Complementary Static CMOS Full Adder Cell.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Ripple-Carry Adder/Ripple-Carry Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Logarithmic Shifter/Logarithmic Shifter.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Logarithmic Shifter/Pasted image 20241029032108.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Logarithmic Shifter/Logarithmic Shifter.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Barrel Shifter/Barrel Shifter.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Programmable Shifter/Programmable Shifter.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Programmable Shifter/Pasted image 20241021204201.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Hard-Wired Shifter/Hard-Wired Shifter.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Hard-Wired Shifter/Pastedimage20241021204314.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Shifter/Logical Shift/Pasted image 20241021204125.png",
-    "课件/EE6306/Ivan/Pasted image 20241029022848.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Carry-Bypass Adder/Carry-Bypass Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Dynamic Implementation of P and G.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Static Manchester Carry Gates.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Manchester Carry Gates/Dynamic Manchester Carry Gates.png",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Carry-Select Adder/Carry-Select Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Carry-Select Adder/Square-Root Carry-Select Adder/Square-Root Carry-Select Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Other Low Power Techniques.md",
-    "单纯的，知识/Digital Circuits/Memory/Memory.md",
-    "单纯的，知识/Digital Circuits/Power/Switching Activity/Switching Activity.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Analysis and Verification.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/未命名/Behavioural Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/未命名",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Functional Simulation/Functional Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Functional Simulation",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Static Timing Analysis/Static Timing Analysis.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Static Timing Analysis",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Gate Level Simulation/Gate Level Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Gate Level Simulation",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Switch Level Simulation/Switch Level Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Switch Level Simulation",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Timing Simulation/Timing Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Timing Simulation",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Circuit Simulation/Circuit Simulation.md",
+    "单纯的，知识/Digital Circuits/Analysis and Verification/Circuit Simulation",
+    "单纯的，知识/Digital Circuits/Analysis and Verification",
+    "单纯的，知识/Digital Circuits/Arithmetic Modules/Multiplier/Multiplier.md",
     "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Half Adder/Half Adder.md",
-    "单纯的，知识/Digital Circuits/Arithmetic Modules/Adder/Carry-Look-Ahead Adder/Carry-Look-Ahead Adder.md",
-    "单纯的，知识/MOSFET/MOSFET Basis/Gate Capacitance/Gate Capacitance.md",
-    "单纯的，知识/Digital Circuits/Adders.md",
-    "课件/EE6306/Ivan",
-    "课件/EE6306",
-    "课件",
-    "单纯的，知识/Digital Circuits/Tri-state buffer",
-    "单纯的，知识/Digital Circuits/Interconnect",
-    "单纯的，知识/Digital Circuits/Input Output/未命名",
-    "单纯的，知识/Digital Circuits/Input Output",
-    "单纯的，知识/Digital Circuits/Memory",
-    "单纯的，知识/Digital Circuits/Control Unit",
+    "单纯的，知识/Digital Circuits/Interconnect/Interconnect.md",
+    "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.md",
+    "单纯的，知识/Digital Circuits/Arithmetic Modules/Multiplier/Dot Diagram",
+    "单纯的，知识/Digital Circuits/Arithmetic Modules",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]

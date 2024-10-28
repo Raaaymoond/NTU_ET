@@ -20,4 +20,7 @@ tags:
 - [[Complementary Static CMOS Full Adder Cell]]
 - [[Transmission-Gate-Based Adder]]
 - [[Manchester Carry Gates]]
+- [[Carry-Bypass Adder]]
+- [[Carry-Select Adder]]
+- [[Carry-Look-Ahead Adder]]
 - 
