@@ -4,7 +4,6 @@ tags:
   - power
   - digital_circuits
   - low_power
-  - Ivan
 ---
 # Other Techniques Used
 

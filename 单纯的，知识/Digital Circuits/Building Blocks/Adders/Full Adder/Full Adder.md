@@ -28,6 +28,7 @@ $$c_o=ab+bc_i+ac_i$$
 - $P=A\oplus B$ 进位传播（propagate）信号
 
 # 全加器的反相特性（Inverting Property of Adder Cell）
+
 全加器的输入和输出全部反向并不影响性质。
 $$\overline{s}(a,b,c_i)=s(\overline{a},\overline{b},\overline{c_i})$$
 $$\overline{c_o}(a,b,c_i)=c_o(\overline{a},\overline{b},\overline{c_i})$$

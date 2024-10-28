@@ -39,16 +39,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.md",
+                "file": "单纯的，知识/Digital Circuits/Datapath/Datapath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clock Gating"
+              "title": "Datapath"
+            }
+          },
+          {
+            "id": "058d4239c58161fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Digital Circuits/Memory/Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
+            }
+          },
+          {
+            "id": "7fc634ce3fee8aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Digital Circuits/Power/Switching Activity/Switching Activity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switching Activity"
+            }
+          },
+          {
+            "id": "663903f44e893c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Select Adder/Carry-Select Adder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carry-Select Adder"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -67,7 +109,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -79,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#design_synthesis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,17 +162,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.md",
+                "file": "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Select Adder/Carry-Select Adder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Clock Gating 的反向链接列表"
+              "title": "Carry-Select Adder 的反向链接列表"
             }
           },
           {
@@ -190,52 +232,52 @@
   },
   "active": "7f0b3b1f1ef44f79",
   "lastOpenFiles": [
-    "单纯的，知识/Digital Circuits/Building Blocks",
-    "单纯的，知识/Digital Circuits/Moore’s Law",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Complementary Static CMOS Full Adder Cell/Complementary Static CMOS Full Adder Cell.md",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Full Adder/Full Adder.md",
+    "单纯的，知识/MOSFET/MOSFET Basis/Gate Capacitance/Gate Capacitance.md",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Complementary Static CMOS Full Adder Cell/Pasted image 20241021201112.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Select Adder/Carry-Select Adder.md",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Select Adder/Carry-Select Adder_1.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Look-Ahead Adder/Carry-Look-Ahead Adder.md",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Look-Ahead Adder/Carry-Look-Ahead Adder.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Bypass Adder/Carry-Bypass Adder_3.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Bypass Adder/Carry-Bypass Adder_2.png",
+    "单纯的，知识/Digital Circuits/Building Blocks/Adders/Carry-Bypass Adder/Carry-Bypass Adder_1.png",
+    "课件/EE6306/Ivan/Ivan Lecture Slides.md",
+    "单纯的，知识/Digital Circuits/Adders.md",
+    "单纯的，知识/Digital Circuits/Interconnect/Interconnect.md",
+    "单纯的，知识/Digital Circuits/Datapath/Datapath.md",
+    "单纯的，知识/Digital Circuits/Input Output/Input Output.md",
+    "单纯的，知识/Digital Circuits/Tri-state buffer/Tri-state buffer.md",
+    "课件/EE6306/Ivan/Pasted image 20241029022848.png",
+    "单纯的，知识/Diode/Diode I-V Relation/Diode I-V Relation.md",
+    "单纯的，知识/Digital Circuits/Input Output/Protection Circuit.png",
+    "单纯的，知识/Digital Circuits/Input Output/Pasted image 20241029023510.png",
+    "单纯的，知识/Digital Circuits/Memory/Memory.md",
+    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Other Low Power Techniques.md",
+    "单纯的，知识/Digital Circuits/Power/Switching Activity/Switching Activity.md",
+    "单纯的，知识/Digital Circuits/Control Unit/Control Unit.md",
+    "课件/EE6306/Ivan",
+    "课件/EE6306",
+    "课件",
+    "单纯的，知识/Digital Circuits/Tri-state buffer/Tri-state buffer.png",
+    "单纯的，知识/Digital Circuits/Tri-state buffer",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Thermal Voltage.md",
+    "单纯的，知识/Digital Circuits/Interconnect",
+    "单纯的，知识/Diode/Diode Small Signal Model/Diode Small Signal Model.md",
+    "单纯的，知识/Digital Circuits/Input Output/未命名",
+    "单纯的，知识/Digital Circuits/Input Output",
+    "单纯的，知识/Digital Circuits/Memory",
+    "单纯的，知识/Digital Circuits/Control Unit",
     "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Power Gating.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Power Gating.png",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Pasted image 20241029021136.png",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Pasted image 20241029021127.png",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Pasted image 20241029021114.png",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating/Power Gating.png",
-    "Pasted image 20241029020907.png",
     "单纯的，知识/Digital Circuits/Power/Low Power/Design Considerations/Design Considerations.md",
     "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/Clock Gating.md",
+    "单纯的，知识/Digital Circuits/Datapath",
     "单纯的，知识/Digital Circuits/Power/Dynamic Consumption/Dynamic Consumption.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Other Low Power Techniques.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Design Considerations",
     "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Flow Graph/Data Flow Graph.md",
     "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Multiple Supply Voltages/Multiple Supply Voltages.md",
     "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Dynamic Voltage and Frequency Scaling/Dynamic Voltage and Frequency Scaling.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Power Gating",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating/未命名",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Clock Gating",
     "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Power-down Mode/Power-down Mode.md",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Power-down Mode",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Dynamic Voltage and Frequency Scaling",
-    "单纯的，知识/Digital Circuits/Power/Low Power/Other Low Power Techniques/Multiple Supply Voltages",
-    "单纯的，知识/Digital Circuits/Power/Low Power",
-    "单纯的，知识/Digital Circuits/Power/Switching Activity/Switching Activity.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Architecture Synthesis.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Register Allocation.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Module Allocation/Module Allocation.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Interconnect Allocation/Interconnect Allocation.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Design Synthesis.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Operation Scheduling/Operation Scheduling.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Circuit Synthesis.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterostructures/Stained Heterostructure/Strained Heterostructure.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Derivation of Transistor Netlist/Derivation of Transistor Netlist.md",
-    "单纯的，知识/Digital Circuits/Design Synthesis/Circuit Synthesis/Transistor Sizing/Transistor Sizing.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterostructures/Bandgap Discontinuity/Bandgap Discontinuity.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterostructures/Critical Thickness/Critical Thickness.md",
-    "单纯的，知识/BJT/BJT Basis/BJT Small Signal Model/BJT Small Signal Model.png",
-    "单纯的，知识/MOSFET/MOSFET Basis/Channel Charge/Channel Charge.png",
-    "单纯的，知识/Diode/Diode Small Signal Model/Diode Small Signal Model.png",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]

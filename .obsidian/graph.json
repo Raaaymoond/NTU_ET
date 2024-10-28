@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#low_power  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.809817845013893,
   "linkDistance": 30,
-  "scale": 0.46229134525227283,
+  "scale": 0.27647370910573493,
   "close": false
 }
