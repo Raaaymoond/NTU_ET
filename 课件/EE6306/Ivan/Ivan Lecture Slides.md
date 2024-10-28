@@ -3,6 +3,8 @@ aliases:
 tags:
   - lecture_slides
   - Ivan
+  - digital
+  - TODO
 ---
 # Generic Digital System
 
@@ -55,11 +57,27 @@ A Generic Digital System consists of:
 
 ## Gajski-Kuhn Y Diagram
 
-### Objects In Each Domain
+![[Pasted image 20241029061001.png|Gajski-Kuhn Y Diagram]]
+
+ ### Objects In Each Domain
+
+|                    |                     Behavioural                      |                 Structural                  |        Physical        |
+| :----------------: | :--------------------------------------------------: | :-----------------------------------------: | :--------------------: |
+|       System       |                  Performance Specs.                  |  CUPs<br>Memories<br>Controllers<br>Buses   |  Physical Partitions   |
+|    Algorithmic     |                   Data Procedures                    |     Hardware Modules<br>Data Structures     |        Clusters        |
+| Microarchitectural | Operations<br>Register Transfers<br>State Sequencing | ALUs<br>MUXs<br>Registers<br>Microsequencer |       Floorplans       |
+|       Logic        |               Boolean Equations<br>FSM               |        Gates<br>Flip-Flops<br>Cells         | Cell /<br>Moudle Plans |
+|      Circuit       |             Transfer Functions<br>Timing             |      Transistors<br>Wires<br>Contacts       |         Layout         |
 
 # Design Hierarchy
 
-# Design Entry
+![[Pasted image 20241029055425.png#pic_center|Design Hierarchy]]
+
+## Design Flow
+
+![[Pasted image 20241029055457.png|Design Flow]]
+
+### Design Entry
 
 - Text based Hardware Description Languages
 	- VHDL
@@ -68,7 +86,7 @@ A Generic Digital System consists of:
 - State Diagram
 - Flow Chart
 
-# Synthesis, Partitioning & Simulation
+### Synthesis, Partitioning & Simulation
 
 - Logic Synthesis
 	- Use synthesis tools to translate HDL to a netlist of logic gates and their connections
@@ -78,7 +96,7 @@ A Generic Digital System consists of:
 - Prelayout Simulation
 	- Verify the functionality of the system
 
-# Floorplanning, Placement & Routing
+### Floorplanning, Placement & Routing
 
 - Floorplanning
 	- Arrange the blocks of the design to optimize the size and the interconnections
@@ -87,7 +105,7 @@ A Generic Digital System consists of:
 - Routing
 	- Make connection between cells and modules
 
-# Extraction & Postlayout Simulation
+### Extraction & Postlayout Simulation
 
 - Extraction
 	- Convert the layout back to circuits
@@ -99,32 +117,7 @@ A Generic Digital System consists of:
 # EDA Tools
 
 4 Main Categories:
-- [[Ivan Lecture Slides#Design Entry Tool|Design Entry]]
+- [[Design Entry Tool|Design Entry]]
 - [[Analysis]] and [[Verification]]
-- [[Design Synthesis|Synthesis]] and Implementation
+- [[Design Synthesis|Synthesis]] and [[Implementation]]
 - Testing
-
-## Design Entry Tool
-
-- Schematic Editor
-	- **Cell Library**: Contains components to be used
-	- **Editing Functions**: Place, Move, Delete, Connect, Rotate/Flip, Copy/Paste
-	- **Hierarchical Design**: Modules contain lower-level schematics
-	- **Netlist Description Language**: Electronic Design Interchange Format (EDIF)
-
-# Hierarchical Schematic 
-
-![[Pasted image 20241029044315.png]]
-- (a) [[Half Adder|HADD]] Schematic
-- (b) Schematic Symbol
-- (c) Higher-level Schematic that makes use of [[Half Adder|HADD]]
-- (d) Hierarchy of [[Half Adder|HADD]]
-
-# Implementation Approaches
-
-![[Pasted image 20241029050258.png#pic_center|Implementation Approaches]]
-
-# Design Synthesis
-
-- [[Design Synthesis]]
-

@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#digital_circuits  ",
+      "query": "tag:#digital ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -21,10 +21,10 @@
   "nodeSizeMultiplier": 1.95773386847793,
   "lineSizeMultiplier": 2.88720592775548,
   "collapse-forces": false,
-  "centerStrength": 0.458104353195431,
-  "repelStrength": 20,
-  "linkStrength": 0.608274158690954,
-  "linkDistance": 321,
-  "scale": 0.07647139788217297,
+  "centerStrength": 0.130163630750232,
+  "repelStrength": 8.29391787588762,
+  "linkStrength": 0.339610991046619,
+  "linkDistance": 30,
+  "scale": 0.10211737680583217,
   "close": false
 }
