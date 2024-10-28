@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - digital_circuits
-  - analysis_and_verification
+  - analysis
 ---
 
 - Extension of [[Ivan Lecture Slides#Logic Simulation|Logic Simulation]]

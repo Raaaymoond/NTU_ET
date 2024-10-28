@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - digital_circuits
-  - analysis_and_verification
+  - analysis
 ---
 ![[Switch Level Simulation.png#pic_center|CMOS Inverter Switch-Level Model]]
 

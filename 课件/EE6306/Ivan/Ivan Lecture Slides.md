@@ -100,8 +100,8 @@ A Generic Digital System consists of:
 
 4 Main Categories:
 - [[Ivan Lecture Slides#Design Entry Tool|Design Entry]]
-- Analysis and Verification
-- Synthesis and Implementation
+- [[Analysis]] and [[Verification]]
+- [[Design Synthesis|Synthesis]] and Implementation
 - Testing
 
 ## Design Entry Tool
@@ -119,26 +119,6 @@ A Generic Digital System consists of:
 - (b) Schematic Symbol
 - (c) Higher-level Schematic that makes use of [[Half Adder|HADD]]
 - (d) Hierarchy of [[Half Adder|HADD]]
-
-# Analysis and Verification
-
-- [[Analysis and Verification]]
-
-# Design Verification
-
-- Simulation results do not guarantee the correctness and functionality of a design
-- Simulation only tells how the design reacts under a given set of input excitations
-- Design Verification is used to detect design errors in the circuits
-- Three Types of Design Verification
-	- [[Ivan Lecture Slides#Electrical Verification|Electrical Verification]]
-	- [[Ivan Lecture Slides#Timing Verification|Timing Verification]]
-	- [[Ivan Lecture Slides#Formal Verification|Formal Verification]]
-
-## Electrical Verification #TODO
-
-## Timing Verification #TODO
-
-## Formal Verification #TODO
 
 # Implementation Approaches
 

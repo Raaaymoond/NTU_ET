@@ -3,7 +3,7 @@ aliases:
   - Transistor Level Simulation
 tags:
   - digital_circuits
-  - analysis_and_verification
+  - analysis
 ---
 
 - Circuits are represented at transistor level

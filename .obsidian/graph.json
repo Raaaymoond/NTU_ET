@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#digital_circuits  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.95773386847793,
+  "lineSizeMultiplier": 2.88720592775548,
   "collapse-forces": false,
-  "centerStrength": 0.383081197900587,
+  "centerStrength": 0.458104353195431,
   "repelStrength": 20,
-  "linkStrength": 0.809817845013893,
-  "linkDistance": 30,
-  "scale": 0.16534532305589764,
+  "linkStrength": 0.608274158690954,
+  "linkDistance": 321,
+  "scale": 0.07647139788217297,
   "close": false
 }

@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - digital_circuits
-  - analysis_and_verification
+  - analysis
 ---
 
 - Difference between functional and behavioural description:

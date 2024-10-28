@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - analysis_and_verification
+  - analysis
   - digital_circuits
 ---
 
