@@ -1,3 +1,10 @@
+---
+aliases: 
+tags:
+  - semi_conductor
+  - heterostructure
+---
+
 # Fundamentals
 
 - [[Heterojunction]]
