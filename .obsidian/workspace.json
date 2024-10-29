@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Entry Tool"
+              "title": "readme"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Design Entry Tool 的反向链接列表"
+              "title": "readme 的反向链接列表"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Design Entry Tool 的出链列表"
+              "title": "readme 的出链列表"
             }
           },
           {
@@ -194,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md"
+                "file": "readme.md"
               },
               "icon": "lucide-list",
-              "title": "Design Entry Tool 的大纲"
+              "title": "readme 的大纲"
             }
           }
         ],
@@ -219,10 +219,11 @@
   },
   "active": "24a53b7963a11ac3",
   "lastOpenFiles": [
+    "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
+    "单纯的，知识/EMI",
     "课件/EE6306/Ivan/Ivan Lecture Slides.md",
     "课件/EE6303/EMI Filter/EMI Filter.md",
     "单纯的，知识/Digital/EDA Tools/Analysis/Analysis.md",
-    "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
     "课件/EE6303/EMI Filter",
     "课件/EE6303",
     "单纯的，知识/Digital/EDA Tools/Design Synthesis/Circuit Synthesis/Circuit Synthesis.md",
@@ -263,8 +264,6 @@
     "单纯的，知识/Digital/EDA Tools/Verification/Formal Verification/Formal Verification.md",
     "单纯的，知识/Digital/EDA Tools/Verification/Timing Verification/Timing Verification.md",
     "单纯的，知识/Digital/EDA Tools/Verification/Electrical Verification/Electrical Verification.md",
-    "单纯的，知识/Digital/EDA Tools/Design Entry Tool",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]
