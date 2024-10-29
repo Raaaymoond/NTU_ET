@@ -19,7 +19,7 @@ tags:
 
 # Combinational Logic Synthesis
 
-对一个[[Full Adder|全加器]]进行Combinational Logic Synthesis
+对一个[[Full Adder]]进行Combinational Logic Synthesis
 ![[Pasted image 20241029052049.png#pic_center|Multi-Level Logic Implementation using OR-AND-NOT gate]]
 
 将原始的表达式转换为使用更加简单逻辑门的形式（例如异或转换为OR-AND-NOT）
@@ -28,7 +28,7 @@ tags:
 - State Minimization: Two states are equivalent if the output sequences for any input are the same
 - State Encoding: Different code assignment for the states can result in different logic implementation
 - State Machine Decomposition: Dividing a large state Machine into 2 or more small ones. Logic will be simpler and easier to be minimized. Speed can be increased too.
-- **[[Logic Synthesis#Retiming|Retiming]]**: The clock speed depends on the delay between any two stages of a sequential circuit. By rearranging the sequential logic elements (flip flops), the delay can be reduced.
+- **Retiming**: The clock speed depends on the delay between any two stages of a sequential circuit. By rearranging the sequential logic elements (flip flops), the delay can be reduced.
 
 ## Retiming of Sequential Logic Circuit
 
