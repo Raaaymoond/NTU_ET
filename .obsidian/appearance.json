@@ -2,5 +2,7 @@
   "enabledCssSnippets": [
     "pic",
     "fig_caption"
-  ]
+  ],
+  "baseFontSize": 16,
+  "nativeMenus": false
 }

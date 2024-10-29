@@ -88,4 +88,5 @@ $$Z_L=50+50=100\mathrm{\Omega}$$
 
 #### Common Mode
 ![[Pasted image 20241029205353.png#pic_center|]]
-$$Z_L=50$$
+$$Z_L=50\parallel50=25\mathrm{\Omega}$$
+

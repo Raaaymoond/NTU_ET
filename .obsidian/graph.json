@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "file:Heterojunction Electronic Devices",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.98376041988268,
   "linkDistance": 30,
-  "scale": 0.06345045394897943,
+  "scale": 0.13051064842930132,
   "close": false
 }
