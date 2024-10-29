@@ -23,4 +23,3 @@ tags:
 - [[Carry-Bypass Adder]]
 - [[Carry-Select Adder]]
 - [[Carry-Look-Ahead Adder]]
-- 

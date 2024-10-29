@@ -6,11 +6,11 @@ tags:
   - digital
   - arthmetic_modules
 ---
-由[[Full Adder|全加器]]改进而来。
+由[[Full Adder]]改进而来。
 # 表达式
 
-$$c_o=ab+bc_i+ac_i$$
-$$s=a\oplus b \oplus c_i=abc_i+\overline{c_o}(a+b+c_i)$$
+$$C_o=AB+BC_i+AC_i$$
+$$S=A\oplus B \oplus C_i=ABC_i+\overline{C_o}(A+B+C_i)$$
 # Drawbacks
 
 - The Complementary Static CMOS full adder cell has 28 transistors.

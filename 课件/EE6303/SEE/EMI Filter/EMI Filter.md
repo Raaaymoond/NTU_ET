@@ -67,3 +67,25 @@ A SMPS is powered by an AC power mains. It generates RF noise currents into the 
 ![[Pasted image 20241029201807.png|LISN]]
 - At the **power frequency (50Hz)**, the LISN is practically **transparent** to the AC power (230V, 50Hz) and the EUT receives the power.
 - At the **EMI frequency (says, 5MHz)**, the high frequency noise current of the EUT will flow through C1 and measured by the $50\mathrm{\Omega}$ test instrument.
+
+从这张图上可以看到无论是火线L还是零线N，终端的电路都是相同的（测试仪器是$50\mathrm{\Omega}$阻抗匹配）。在高频下，$C_1$近似为导线，噪声电流直接流入$50\Omega$负载。$1\mathrm{k\Omega}$电阻用于给$C_1$放电，否在电容中的高压在测试完成后无法泄放。
+
+- The SMPS noise current is essentially terminated by $Z_L=50\mathrm{\Omega}$ from 150 kHz to 30 MHz.
+- The SMPS sees a stable terminating impedance regardless of AC mains impedance fluctuation.
+	- With the LISN inserted between the AC mains and SMPS, the noise current in passes through the $50\mathrm{\Omega}$ termination (the input impedance of EMI receiver).
+	- It is more convenient to express conducted EMI in terms of voltage across the $50\mathrm{\Omega}$. For example, if $i_n=0.2\mathrm{mA}$ at 1 MHz, the voltage measured by the EMI receiver will be: $$V_{50\mathrm{\Omega}}=i_n\times 50=10000\mathrm{\mu V}=80\mathrm{dB\mu V}$$
+
+## Conduction Modes of Conducted EMI
+
+- DM: Differential-Mode
+- CM: Common-Mode
+
+### Effective DM & CM LISN Terminations
+
+#### Differential Mode
+![[Pasted image 20241029205335.png#pic_center|]]
+$$Z_L=50+50=100\mathrm{\Omega}$$
+
+#### Common Mode
+![[Pasted image 20241029205353.png#pic_center|]]
+$$Z_L=50$$

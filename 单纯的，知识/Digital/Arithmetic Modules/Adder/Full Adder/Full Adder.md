@@ -31,7 +31,8 @@ tags:
 
 # Inverting Property of Adder Cell
 
+![[Pasted image 20241029205717.png#pic_center|全加器的反相特性]]
+
 Adder cell has an Inverting property
 $$\overline{S}(A,B,C_i)=s(\overline{A},\overline{B},\overline{C_i})$$
 $$\overline{C_o}(A,B,C_i)=C_o(\overline{A},\overline{A},\overline{C_i})$$
-根据这一性质可以设计[[Complementary Static CMOS Full Adder Cell]]
