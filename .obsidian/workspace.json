@@ -11,28 +11,18 @@
             "id": "24a53b7963a11ac3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "02a99e2526de30b8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
+                "file": "单纯的，知识/BJT/BJT Advance/Emitter Injection Efficiency/Emitter Injection Efficiency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lattice Constant"
+              "title": "Emitter Injection Efficiency"
             }
           },
           {
-            "id": "0c4cb9ff9d916f2d",
+            "id": "527dc5f4b1710176",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,17 +36,13 @@
             }
           },
           {
-            "id": "f29a859cf41dd2a2",
+            "id": "e61fd8d653806a53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lattice-Matched Heterostructures"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -91,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mole raction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Heterojunction Electronic Devices 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -177,11 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Heterojunction Electronic Devices 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -201,54 +184,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0c4cb9ff9d916f2d",
+  "active": "e61fd8d653806a53",
   "lastOpenFiles": [
-    "课件/EE6604/Shun/MOSFET/MOSFET.md",
-    "课件/EE6604/Shun/BJT/BJT.md",
     "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
+    "单纯的，知识/Semi-Conductor Physics/Vegard’s Law/Vegard’s Law.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101052714.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101052703.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101051828.png",
+    "单纯的，知识/BJT/BJT Advance/Emitter Injection Efficiency/Emitter Injection Efficiency.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Effective Density of States/Effective Density of States.md",
+    "单纯的，知识/BJT/BJT Advance/Electric Field Within the Base/Electric Field Within the Base.md",
+    "单纯的，知识/BJT/BJT Advance/Non-Uniform Majority Carrier Concentration/Non-Uniform Majority Carrier Concentration.md",
+    "单纯的，知识/BJT/BJT Advance/Heavy Doping Effect/Heavy Doping Effect.md",
+    "单纯的，知识/BJT/BJT Advance/Shallow Emitters/Shallow Emitters.md",
+    "单纯的，知识/BJT/BJT Advance/Shallow Emitters/Base Current of Shallow Emitters/Base Current of Shallow Emitters.md",
+    "单纯的，知识/BJT/BJT Basis/Collector Current/Collector Current.md",
+    "单纯的，知识/BJT/BJT Basis/BJT Small Signal Model/BJT Small Signal Model.png",
+    "单纯的，知识/BJT/BJT Basis/BJT Small Signal Model/BJT Small Signal Model.md",
+    "单纯的，知识/BJT/BJT Basis/Base Current/Base Current.md",
+    "单纯的，知识/BJT/BJT Basis/Current Density Equation for Holes in a n-type Emitter/Current Density Equation for Holes in a n-type  Emitter.md",
+    "单纯的，知识/BJT/BJT Basis/Current Density Equation for Electrons in p-type  Base/Current Density Equation for Electrons in p-type Base.md",
+    "单纯的，知识/BJT/BJT Basis/Common Emitter Current Gain/Common Emitter Current Gain.md",
+    "单纯的，知识/BJT/BJT Basis/Common Base Current Gain/Common Base Current Gain.md",
+    "课件/EE6604/Shun/BJT/BJT.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermionic Emission/Thermionic Emission.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Work Function/Work Function.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Work Function",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermionic Emission",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101050118.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101045956.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101045444.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101045310.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101045308.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241101043006.png",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Electron Affinity/Electron Affinity.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Carrier/Carrier Recombination/Surface Recombination/Surface Recombination.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Density of States/Density of States.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/PN Product/PN Product.md",
+    "单纯的，知识/BJT/BJT Advance/Base Transport Factor/Base Transport Factor.md",
+    "单纯的，知识/BJT/BJT Advance/Base Transport Factor",
+    "单纯的，知识/BJT/BJT Advance/Emitter Injection Efficiency",
     "课件/EE6604/Shun/MOSFET",
     "课件/EE6604/Shun/BJT",
     "课件/EE6604/Shun",
-    "单纯的，知识/Semi-Conductor Physics/Vegard’s Law/Vegard’s Law.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Heterojunction/Heterojunction.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Critical Thickness/Critical Thickness.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Bandgap Discontinuity/Bandgap Discontinuity.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Lattice-Mismatched Heterostructures.md",
-    "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
-    "单纯的，知识/Semi-Conductor Physics/Quantum Mechanics/Boltzmann’s Relations/Boltzmann’s Relations.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Equilibrium Carrier Concentration/Equilibrium Carrier Concentration.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermal Equilibrium/Thermal Equilibrium.md",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241030020138.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241030015912.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Bandgap Offset.png",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Electron Affinity/Electron Affinity.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Vacuum Level/Vacuum Level.md",
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Vacuum Level",
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Electron Affinity",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241030013745.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241030013743.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Broken Gap.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Lattice Match and Mismatch Heterostructures.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Staggered.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Straddling.png",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Pasted image 20241030012631.png",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Unstrained Heterostructure/Unstrained Heterostructure.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Stained Heterostructure/Strained Heterostructure.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Circuit Synthesis/Circuit Synthesis.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Thermal Voltage.md",
-    "课件/EE6303/SEE/EMI Filter/EMI Filter.md",
     "课件/EE6604/ZQ/Heterojunction Electronic Devices",
-    "课件/EE6604/ZQ",
-    "课件/EE6604",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Complementary Static CMOS Full Adder Cell.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Adder.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Ripple-Carry Adder/Ripple-Carry Adder.md",
-    "课件/EE6303/SEE",
-    "课件/EE6303/AA/天线",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]
