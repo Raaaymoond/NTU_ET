@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "tag:#heterostructure  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.98376041988268,
   "linkDistance": 30,
-  "scale": 0.05173381245099751,
+  "scale": 0.8305941608334413,
   "close": false
 }

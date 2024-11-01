@@ -3,8 +3,10 @@
     "pic",
     "fig_caption"
   ],
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "textFontFamily": "Times New Roman,宋体",
+  "monospaceFontFamily": "Consolas"
 }

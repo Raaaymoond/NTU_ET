@@ -1,6 +1,9 @@
 ---
 aliases:
   - 维加德定律
+tags:
+  - semi_conductor
+  - solid_state_physics
 ---
 
 - Usually, the parameters of the binary materials are known. The parameters of the ternaries and quaternaries can be derived using Vegard’s Law. (In 1921 by Lars Vegard, a Norwegian physicist)
