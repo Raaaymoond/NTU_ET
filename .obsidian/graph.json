@@ -15,14 +15,7 @@
       }
     },
     {
-      "query": "file:Heterojunction Electronic Devices",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#heterostructure  ",
+      "query": "file:Heterojunction Photonic (Optoelectronic)  Devices",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -39,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.98376041988268,
   "linkDistance": 30,
-  "scale": 0.8305941608334413,
+  "scale": 0.09587133900176974,
   "close": false
 }

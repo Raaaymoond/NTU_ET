@@ -69,7 +69,7 @@ The energy band profile shows band bending leading to a triangular quantum well 
 - As the trapped electrons have 2-dimensional properties (moving in x-y plane), hence they are called two-dimensional electron gas. The sheet electron concentration is very high as they are limited to a very thin surface layer of the GaAs.
   由于被捕获的电子具有二维特性（在x-y平面内移动），因此它们被称为二维电子气。面电子浓度非常高，因为它们被限制在非常薄的GaAs的表面层。
 
-![[MODFET_FIG8.png#pic_center]]
+![[MODFET_FIG8.png#pic_center|]]
 
 - The two-dimensional electron gas has the highest mobility at a **given temperature**. 
 - This is why such devices are also called **High Electron Mobility Transistors (HEMTs)**.
