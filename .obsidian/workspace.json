@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic)  Devices.md",
+                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heterojunction Photonic (Optoelectronic)  Devices"
+              "title": "Drift Current Density"
             }
           }
         ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic)  Devices.md",
+                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Heterojunction Photonic (Optoelectronic)  Devices 的反向链接列表"
+              "title": "Drift Current Density 的反向链接列表"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic)  Devices.md",
+                "file": "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser/Double-Heterojunction (DH) Laser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Heterojunction Photonic (Optoelectronic)  Devices 的出链列表"
+              "title": "Double-Heterojunction (DH) Laser 的出链列表"
             }
           },
           {
@@ -152,14 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic)  Devices.md"
+                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md"
               },
               "icon": "lucide-list",
-              "title": "Heterojunction Photonic (Optoelectronic)  Devices 的大纲"
+              "title": "Drift Current Density 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,52 +176,52 @@
   },
   "active": "81f4ba6ef1c140d0",
   "lastOpenFiles": [
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Pasted image 20241103044849.png",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Carrier/Carrier Mobility/Carrier Mobility.md",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic) Devices.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells/Subbands in Quantum-Wells.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/E-k Diagram/Effective Mass/Effective Mass.md",
+    "单纯的，知识/Device/Laser/Surface Emitting Lasers/Surface Emitting Lasers.md",
+    "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
+    "单纯的，知识/Device/Laser/Quantum Well Lasers/Quantum-Well Lasers.md",
+    "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser/Double-Heterojunction (DH) Laser.md",
+    "单纯的，知识/Device/Laser/Conditions/Optical Cavity/Optical Cavity.md",
+    "单纯的，知识/Device/Laser/Conditions/Population Inversion/Population Inversion.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Quasi-Fermi Levels/Quasi-Fermi Levels.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermal Equilibrium/Thermal Equilibrium.md",
+    "单纯的，知识/Device/Laser/Conditions/Carrier and Optical Confinements/Carrier and Optical Confinements.md",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103210324.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103214037.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103213507.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103213141.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103213018.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103212515.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103211618.png",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells/pic/Pasted image 20241103062828.png",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells/pic",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103204717.png",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103203048.png",
+    "单纯的，知识/Device/Photodetectors",
+    "单纯的，知识/Device/Laser/Surface Emitting Lasers",
+    "单纯的，知识/Device/Laser/Quantum Well Lasers",
     "单纯的，知识/Device/Diode/Diode I-V Relation/Diode I-V Relation.md",
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic)  Devices.md",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Carrier and Optical Confinements/Carrier and Optical Confinements.md",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Population Inversion/Population Inversion.md",
+    "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser",
     "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
     "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Bandgap Discontinuity/Bandgap Discontinuity.md",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity/Optical Cavity.md",
     "readme.md",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity/Pasted image 20241103040341.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity/Pasted image 20241103035316.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity/Pasted image 20241103035125.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity/Pasted image 20241103032241.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Optical Cavity",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Carrier and Optical Confinements/Pasted image 20241103031217.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Carrier and Optical Confinements/Pasted image 20241103030345.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Carrier and Optical Confinements/Pasted image 20241103025929.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Population Inversion/Pasted image 20241103024933.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Population Inversion/Pasted image 20241102224055.png",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Carrier and Optical Confinements",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions/Population Inversion",
-    "单纯的，知识/Semi-Conductor Physics/Laser/Conditions",
-    "单纯的，知识/Semi-Conductor Physics/Laser",
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Carrier/Carrier Mobility/Carrier Mobility.md",
+    "单纯的，知识/Device/Laser/Conditions/Optical Cavity",
+    "单纯的，知识/Device/Laser/Conditions/Carrier and Optical Confinements",
+    "单纯的，知识/Device/Laser/Conditions/Population Inversion",
+    "单纯的，知识/Device/Laser/Conditions",
     "单纯的，知识/Device/MODFET/MODFET.md",
     "课件/EE6303/AA/使用时谐Maxwell方程组推导趋肤效应.md",
     "课件/EE6306/Ivan/Ivan Lecture Slides.md",
     "课件/EE6604/Shun/BJT/BJT.md",
-    "课件/EE6341",
     "课件/EE6604/Shun/MOSFET/MOSFET.md",
-    "课件/EE6604/Shun/MOSFET/pic",
-    "课件/EE6604/Shun/BJT/pic/Pasted image 20241101005247.png",
     "单纯的，知识/Digital/EDA Tools/Implementation/Full-Custom IC/Layout Editor/Layout Editor.md",
-    "课件/EE6604/Shun/BJT/pic",
     "单纯的，知识/Digital/Digital Circuits Basis/Logic Effort/Logic Effort.md",
     "单纯的，知识/Digital/EDA Tools/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
-    "单纯的，知识/Device/MOSFET/MOSFET Noise Model/MOSFET Noise Model.md",
-    "单纯的，知识/Device/MOSFET/MOSFET Basis/MOSFET Small Signal Model/MOSFET Small Signal Model.md",
-    "单纯的，知识/Device/MOSFET/MOSFET Basis/Saturation Drain Voltage/Saturation Drain Voltage.md",
-    "单纯的，知识/Digital/EDA Tools/Implementation/Semi-Custom IC/Semi-Custom IC.md",
-    "单纯的，知识/Digital/Power/Switching Activity/Switching Activity.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Circuit Synthesis/Transistor Sizing/Transistor Sizing.md",
-    "单纯的，知识/Device/BJT/BJT Basis/Collector Current/Collector Current.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Circuit Synthesis/Circuit Synthesis.md",
-    "单纯的，知识/Device",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]

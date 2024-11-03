@@ -7,4 +7,5 @@ tags:
   - heterostructure
 ---
 Lattice-matched [[Heterojunction|Heterostructure]]:
-- The two materials have the same lattice constants, e.g. AlAs on GaAs.
+- The two materials have the same [[Lattice Constant]]s, e.g. AlAs on GaAs.
+  两种材料有相同的晶格常数。
