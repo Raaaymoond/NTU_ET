@@ -6,6 +6,7 @@ tags:
   - semi_conductor
   - heterostructure
 ---
+
 - A heterojunction is defined as a junction (structure) formed by two different semiconductor materials.
 - Such semiconductors are mostly alloy (compound) semiconductors
 - Examples:

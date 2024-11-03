@@ -4,6 +4,9 @@ aliases:
 tags:
   - digital
 ---
-- Inverting Tri-state Buffer
+
+![[Tri-state buffer.png#pic_center]]
+- Inverting Tri-State Buffer
+  反相三态缓冲器
 - $\mathrm{En}=1$ enables buffer ($\mathrm{out}=\overline{\mathrm{in}}$)
-![[Tri-state buffer.png#pic_center|Tri-state Buffer]]
+  $\mathrm{En}=1$时启用缓冲器（$\mathrm{out}=\overline{\mathrm{in}}$）。

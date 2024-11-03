@@ -13,6 +13,7 @@ A Generic Digital System consists of:
 - [[Control Unit]]
 - [[Memory]]
 - [[Input Output]] Modules
+
 ![[Pasted image 20241029022848.png#pic_center|Generic Digital System]]
 
 # Arithmetic Modules

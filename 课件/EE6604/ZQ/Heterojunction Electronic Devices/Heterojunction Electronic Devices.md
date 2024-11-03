@@ -12,11 +12,11 @@ tags:
 
 ## Material Parameters of Alloy Semiconductors
 
-- An **alloy semiconductor is a combination of two or more semiconductors**, elemental semiconductors ($\mathrm{Si}$ with $\mathrm{Ge}$) or semiconductor compound from the same group ($\mathrm{GaAs}$ with $\mathrm{InAs}$ or $\mathrm{ZnS}$ with $\mathrm{ZnSe}$).
-- An alloy is formed from a physical mixture of two or more compounds, while a compound is formed from a chemical reaction. $\mathrm{GaAs}$ (or $\mathrm{InAs}$) is a compound semiconductor.
+- An **alloy semiconductor is a combination of two or more semiconductors**, elemental semiconductors ($\text{Si}$ with $\text{Ge}$) or semiconductor compound from the same group ($\text{GaAs}$ with $\text{InAs}$ or $\text{ZnS}$ with $\text{ZnSe}$).
+- An alloy is formed from a physical mixture of two or more compounds, while a compound is formed from a chemical reaction. $\text{GaAs}$ (or $\text{InAs}$) is a compound semiconductor.
 - $\mathrm{Ga_{1−x} In_x As}$ is an alloy compound consisting of $\mathrm{GaAs}$ and $\mathrm{InAs}$ with a mole ratio of $(1−x):x$.
 - **Alloy semiconductors** could be binary ($\mathrm{SiGe}$, $\mathrm{GaAs}$, $\mathrm{InP}$), or ternary ($\mathrm{Al_x Ga_{1-x} As}$, $\mathrm{In_x Al_{1-x} As}$), or quaternary ($\mathrm{In_x Ga_{1-x} As_y P_{1-y}}$).
-- The material parameters include energy bandgap, lattice constant, thermal conductivity, melting point, etc. The first two, **[[课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices#energy bandgap|Energy Bandgap]]** and **[[Lattice Constant]]** are the most important ones.
+- The material parameters include energy bandgap, lattice constant, thermal conductivity, melting point, etc. The first two, **[[#Energy Bandgap|Bandgap]]** and **[[Lattice Constant]]** are the most important ones.
 
 #### Vegard's Law
 
