@@ -152,8 +152,8 @@
 > - 无杂质半导体或少量掺杂的半导体中，$E_F$虽位于能隙上，但与导带和价带较近。
 > 
 > - 在掺杂的半导体中，费米能级会产生偏移。
-	- 对于N型半导体，费米能级为：$$E_F-E_i=kTln\left(\frac{N_d}{n_i}\right)$$
-	- P型半导体的费米能级为：$$E_i-E_F=kTln\left(\frac{N_a}{n_i}\right)$$ $N_d$为施主浓度；$N_a$为受主浓度；$E_i$为本征费米能级
+> 	- 对于N型半导体，费米能级为：$$E_F-E_i=kTln\left(\frac{N_d}{n_i}\right)$$
+> 	- P型半导体的费米能级为：$$E_i-E_F=kTln\left(\frac{N_a}{n_i}\right)$$ $N_d$为施主浓度；$N_a$为受主浓度；$E_i$为本征费米能级
 
 ### Bandgap Offset
 
@@ -261,11 +261,11 @@ Thereffore, with a simple n-p homojunction for the emitter-base, the performance
 > 在硅和其他半导体中，导带热平衡载流子浓度：$$n_0=N_c\times exp\left(-\frac{E_c-E_F}{kT}\right)$$
 > 价带热平衡载流子浓度：$$p_0=N_v\times exp\left(-\frac{E_F-E_v}{kT}\right)$$
 > - 符号：
-> 	- $n_0$: [[Thermal Equilibrium|热平衡]]电子浓度
-> 	- $p_0$: [[Thermal Equilibrium|热平衡]]空穴浓度
-> 	- $N_c$: 导带[[Effective Density of States|有效态密度]]
-> 	- $N_v$: 价带[[Effective Density of States|有效态密度]]
-> 	- $E_F$: [[Fermi Level|费米能级]]
+> 	- $n_0$: 热平衡电子浓度
+> 	- $p_0$: 热平衡空穴浓度
+> 	- $N_c$: 导带有效态密度
+> 	- $N_v$: 价带有效态密度
+> 	- $E_F$: 费米能级
 > 	- $k$: 玻尔兹曼常数
 > 	- $T$: 开尔文温度
 
