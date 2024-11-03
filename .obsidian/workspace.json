@@ -20,17 +20,45 @@
             }
           },
           {
-            "id": "81f4ba6ef1c140d0",
+            "id": "ee5adfb6553473e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md",
+                "file": "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drift Current Density"
+              "title": "Fermi Level"
+            }
+          },
+          {
+            "id": "930e952d07eda46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Device/MODFET/MODFET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MODFET"
+            }
+          },
+          {
+            "id": "7677579567d0fe26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fermi Level"
             }
           }
         ],
@@ -65,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "传导",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +114,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md",
+                "file": "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drift Current Density 的反向链接列表"
+              "title": "Fermi Level 的反向链接列表"
             }
           },
           {
@@ -125,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser/Double-Heterojunction (DH) Laser.md",
+                "file": "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Double-Heterojunction (DH) Laser 的出链列表"
+              "title": "Fermi Level 的出链列表"
             }
           },
           {
@@ -152,13 +181,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单纯的，知识/Semi-Conductor Physics/Current/Drift Current Density/Drift Current Density.md"
+                "file": "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md"
               },
               "icon": "lucide-list",
-              "title": "Drift Current Density 的大纲"
+              "title": "Fermi Level 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,22 +204,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81f4ba6ef1c140d0",
+  "active": "ee5adfb6553473e3",
   "lastOpenFiles": [
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Carrier/Carrier Mobility/Carrier Mobility.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/开卷考特供/Heterojunction Electronic Devices.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/开卷考特供/Heterojunction Electronic Devices.pdf",
+    "单纯的，知识/Device/HBT/HBT.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Schottky Barrier/Schottky Barrier.md",
+    "单纯的，知识/Device/MODFET/MODFET.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Electron Affinity/Electron Affinity.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Vacuum Level/Vacuum Level.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Work Function/Work Function.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermionic Emission/Thermionic Emission.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Equilibrium Carrier Concentration/Equilibrium Carrier Concentration.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/PN Product/PN Product.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Carrier/Carrier Recombination/Surface Recombination/Surface Recombination.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic) Devices.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells/Subbands in Quantum-Wells.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/E-k Diagram/Effective Mass/Effective Mass.md",
-    "单纯的，知识/Device/Laser/Surface Emitting Lasers/Surface Emitting Lasers.md",
-    "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
-    "单纯的，知识/Device/Laser/Quantum Well Lasers/Quantum-Well Lasers.md",
-    "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser/Double-Heterojunction (DH) Laser.md",
-    "单纯的，知识/Device/Laser/Conditions/Optical Cavity/Optical Cavity.md",
-    "单纯的，知识/Device/Laser/Conditions/Population Inversion/Population Inversion.md",
-    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Quasi-Fermi Levels/Quasi-Fermi Levels.md",
+    "单纯的，知识/Device/BJT/BJT Basis/Common Emitter Current Gain/Common Emitter Current Gain.md",
+    "单纯的，知识/Device/BJT/BJT Basis/Common Base Current Gain/Common Base Current Gain.md",
+    "单纯的，知识/Device/BJT/BJT Advance/Base Transport Factor/Base Transport Factor.md",
+    "单纯的，知识/Device/BJT/BJT Advance/Emitter Injection Efficiency/Emitter Injection Efficiency.md",
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Thermal Equilibrium/Thermal Equilibrium.md",
-    "单纯的，知识/Device/Laser/Conditions/Carrier and Optical Confinements/Carrier and Optical Confinements.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Fermi Level/Fermi Level.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Unstrained Heterostructure/Unstrained Heterostructure.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Lattice-Mismatched Heterostructures.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Critical Thickness/Critical Thickness.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Stained Heterostructure/Strained Heterostructure.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
+    "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/开卷考特供/Heterojunction Photonic (Optoelectronic) Devices.pdf",
+    "单纯的，知识/Device/Laser/Conditions/Population Inversion/Pasted image 20241102224055.png",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/开卷考特供/未命名",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/开卷考特供",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/开卷考特供",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103210324.png",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103214037.png",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103213507.png",
@@ -201,27 +248,9 @@
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells/pic",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103204717.png",
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Subbands in Quantum-Wells",
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/pic/Pasted image 20241103203048.png",
     "单纯的，知识/Device/Photodetectors",
     "单纯的，知识/Device/Laser/Surface Emitting Lasers",
     "单纯的，知识/Device/Laser/Quantum Well Lasers",
-    "单纯的，知识/Device/Diode/Diode I-V Relation/Diode I-V Relation.md",
-    "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser",
-    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Bandgap Discontinuity/Bandgap Discontinuity.md",
-    "readme.md",
-    "单纯的，知识/Device/Laser/Conditions/Optical Cavity",
-    "单纯的，知识/Device/Laser/Conditions/Carrier and Optical Confinements",
-    "单纯的，知识/Device/Laser/Conditions/Population Inversion",
-    "单纯的，知识/Device/Laser/Conditions",
-    "单纯的，知识/Device/MODFET/MODFET.md",
-    "课件/EE6303/AA/使用时谐Maxwell方程组推导趋肤效应.md",
-    "课件/EE6306/Ivan/Ivan Lecture Slides.md",
-    "课件/EE6604/Shun/BJT/BJT.md",
-    "课件/EE6604/Shun/MOSFET/MOSFET.md",
-    "单纯的，知识/Digital/EDA Tools/Implementation/Full-Custom IC/Layout Editor/Layout Editor.md",
-    "单纯的，知识/Digital/Digital Circuits Basis/Logic Effort/Logic Effort.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]

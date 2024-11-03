@@ -83,6 +83,7 @@ The radiation from stimualted emission if **coherent** because all photons emitt
 ## Subbands in Quantum-Wells
 
 [[Subbands in Quantum-Wells]]
+
 ## Quantum-Well Structures for Long Wavelength Fnfrared Detection
 
 - In general, the efficiency of interband transition is much higher than that of intersubband transition.

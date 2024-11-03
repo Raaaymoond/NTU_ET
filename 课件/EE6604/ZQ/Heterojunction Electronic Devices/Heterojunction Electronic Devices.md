@@ -16,7 +16,7 @@ tags:
 - An alloy is formed from a physical mixture of two or more compounds, while a compound is formed from a chemical reaction. $\mathrm{GaAs}$ (or $\mathrm{InAs}$) is a compound semiconductor.
 - $\mathrm{Ga_{1−x} In_x As}$ is an alloy compound consisting of $\mathrm{GaAs}$ and $\mathrm{InAs}$ with a mole ratio of $(1−x):x$.
 - **Alloy semiconductors** could be binary ($\mathrm{SiGe}$, $\mathrm{GaAs}$, $\mathrm{InP}$), or ternary ($\mathrm{Al_x Ga_{1-x} As}$, $\mathrm{In_x Al_{1-x} As}$), or quaternary ($\mathrm{In_x Ga_{1-x} As_y P_{1-y}}$).
-- The material parameters include energy bandgap, lattice constant, thermal conductivity, melting point, etc. The first two, **[[Heterojunction Electronic Devices#energy bandgap|Energy Bandgap]]** and **[[Lattice Constant]]** are the most important ones.
+- The material parameters include energy bandgap, lattice constant, thermal conductivity, melting point, etc. The first two, **[[课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices#energy bandgap|Energy Bandgap]]** and **[[Lattice Constant]]** are the most important ones.
 
 #### Vegard's Law
 

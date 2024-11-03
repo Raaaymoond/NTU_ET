@@ -3,5 +3,12 @@
   "showLineNumber": true,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
