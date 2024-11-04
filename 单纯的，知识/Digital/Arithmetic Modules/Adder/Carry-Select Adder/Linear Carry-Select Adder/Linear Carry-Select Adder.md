@@ -10,7 +10,7 @@ tags:
 ![[Linear Carry-Select Adder.png]]
 # 延时
 
-- 总共$N$位的加法器，每级为$M$位的加法器最差延时$t_{\text{p}}$为：$$t_{\text{p}}=t_{\text{setup}}+M\cdot t_{\text{carry}}+\sqrt{2N}t_{\text{mux}}+t_{\text{sum}}$$上式中的各项为：
+- 总共$N$位的加法器，每级为$M$位的加法器最差延时$t_{\text{p}}$为：$$t_{\text{p}}=t_{\text{setup}}+M\cdot t_{\text{carry}}+\frac{N}{M}t_{\text{mux}}+t_{\text{sum}}$$上式中的各项为：
 	- $t_{\text{setup}}$：形成[[Full Adder#中间信号|进位产生信号G和进位传播信号P]]所需要的固定时间
 	- $t_{\text{carry}}$：通过1位的传播延时。最坏情况下通过具有$M$位的进位链的传播延时为$M\cdot t_{\text{carry}}$
 	- $t_{\text{mux}}$：选择器的传播延时
