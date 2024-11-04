@@ -2,6 +2,10 @@
 
 使用笔记软件obsidian查看
 
+如果不会git的话，download ZIP后把解压的文件夹设置为vault就可以了。
+
+会git的：还要我教？直接git pull到你的vault
+
 # 包含的课程？
 
 6306 数字集成电路

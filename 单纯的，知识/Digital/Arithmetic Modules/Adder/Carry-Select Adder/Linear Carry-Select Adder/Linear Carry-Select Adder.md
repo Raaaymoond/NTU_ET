@@ -5,9 +5,11 @@ tags:
   - adder
   - digital
 ---
+
 与[[Carry-Bypass Adder|进位旁路加法器]]类似，线性进位选择加法器可以将总共$N$位的加法器拆分为每级为$M$位的链状结构。下图展示了一个$N=16$，$M=4$的线性进位选择加法器及其关键路径。
 
 ![[Linear Carry-Select Adder.png]]
+
 # 延时
 
 - 总共$N$位的加法器，每级为$M$位的加法器最差延时$t_{\text{p}}$为：$$t_{\text{p}}=t_{\text{setup}}+M\cdot t_{\text{carry}}+\frac{N}{M}t_{\text{mux}}+t_{\text{sum}}$$上式中的各项为：

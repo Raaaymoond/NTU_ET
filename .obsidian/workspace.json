@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Carry-Select Adder"
+              "title": "readme"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linear Carry-Select Adder 的反向链接列表"
+              "title": "readme 的反向链接列表"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md"
+                "file": "readme.md"
               },
               "icon": "lucide-list",
-              "title": "Linear Carry-Select Adder 的大纲"
+              "title": "readme 的大纲"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "688e7132a1cb247b",
   "lastOpenFiles": [
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.png",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md",
     "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Square-Root Carry-Select Adder/Square-Root Carry-Select Adder.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.png",
     "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
     "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Register Allocation.md",
     "单纯的，知识/Digital/Power/Low Power/Clock Gating/Clock Gating.md",
@@ -243,7 +244,6 @@
     "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic",
     "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Pasted image 20241104073849.png",
     "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic/Pasted image 20241104071205.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic/Pasted image 20241104071124.png",
     "课件/EE6341/Zheng",
     "课件/EE6341/See",
     "课件/EE6306/Goh",
