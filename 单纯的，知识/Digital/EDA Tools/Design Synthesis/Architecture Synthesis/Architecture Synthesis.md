@@ -6,8 +6,11 @@ tags:
   - digital
   - design_synthesis
 ---
+
 - It generates a structural view of an architecture design from a behavioural description of the task to be executed
+  它从要执行的任务的行为描述中生成架构设计的结构视图
 - It optimizes one or more performance factors such as area, speed and power
+  它优化一个或多个性能因素，例如面积、速度和功耗
 - Two main tasks:
 	- [[Operation Scheduling]]
 	- [[Data Path Allocation]]

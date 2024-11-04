@@ -4,6 +4,13 @@ tags:
   - digital
   - eda_tools
 ---
+- Text based Hardware Description Languages (HDL)
+	- VHDL
+	- Verilog
+- Schematics
+- Visual Graph
+	- State Diagram
+	- Flow Chart
 
 - Schematic Editor
 	- **Cell Library**: Contains components to be used
