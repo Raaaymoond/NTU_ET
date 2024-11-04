@@ -6,4 +6,5 @@ tags:
   - power
   - low_power
 ---
-multiple $F/V$ pairs allowed
+multiple $f/V$ pairs allowed
+允许多个$f/V$对

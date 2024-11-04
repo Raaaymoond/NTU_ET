@@ -28,4 +28,6 @@ tags:
 - **Input Ordering**: A simple reordering of the input signals can reduce switching activity
 - **Glitch Reduction by Balancing Signal Paths**: Equalizing arrival times of signals can reduce the spurious transitions, thereby reducing glitches
 
-# Ivan
+# CC
+
+没说

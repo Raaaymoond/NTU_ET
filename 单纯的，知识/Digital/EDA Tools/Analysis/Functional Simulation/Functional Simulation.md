@@ -6,7 +6,7 @@ tags:
   - eda_tools
 ---
 
-- Extension of [[Ivan Lecture Slides#Logic Simulation|Logic Simulation]]
+- Extension of [[CC Lecture Slides#Logic Simulation|Logic Simulation]]
 - Circuit can contain elements of arbitrary complexity, e.g. AND gate, Registers, Multiplier, RAM
 - Functionality of each element can be described using HDL (VHDL or Verilog)
 - The output results are logic signals

@@ -9,15 +9,13 @@ tags:
 ![[Bit-Serial Multiplier.png#pic_center|Bit-Serial Multiplier]]
 ![[Pasted image 20241029041648.png#pic_center|]]
 $$Q=M\times A$$
-
-- 与门用来产生[[Partial Products|部分积]]：
+- 对于$M$位与$N$位数相乘，最终需要$N$个周期完成计算。上图的例子需要4个周期
+- 与门用来产生[[Partial Products|部分积]]，在实现中需要将$A$的部分填充至总线位宽（我写了一个Verilog代码来验证它）：
 ```verilog
 and_out = M & {6{Q[0]}};
 ```
 
-对于$M$位与$N$位数相乘，最终需要$N$个周期完成计算。
-
-Verilog代码（为了验证手搓的）
+附：Verilog代码
 ```verilog
 module multiplier(
 input clk,

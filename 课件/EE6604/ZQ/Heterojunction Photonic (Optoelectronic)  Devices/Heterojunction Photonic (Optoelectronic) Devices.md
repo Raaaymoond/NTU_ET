@@ -89,7 +89,7 @@ The radiation from stimualted emission if **coherent** because all photons emitt
 - In general, the efficiency of interband transition is much higher than that of intersubband transition.
   普遍地，带间跃迁的效率远高于带内跃迁。
 - Why ones still rely on intersubband transition for long wavelength detection?
-  为什么人们依然依赖带间跃迁进行长波探测？
+  为什么人们依然依赖带内跃迁进行长波探测？
 	- There are not many reliable narrow bandgap materials available.
 	  并没有什么小带隙的材料可用。
 - For the long wavelength infrared of $10\mu m$, the corresponding energy is $0.124e\mathrm{V}$. The typical semiconductor with such small bandgap is HgCdTe (Mercury Cadmium Telluride or MCT). But it is a big challenge to fabricate repeatable high-quality materials with controllable parameters.

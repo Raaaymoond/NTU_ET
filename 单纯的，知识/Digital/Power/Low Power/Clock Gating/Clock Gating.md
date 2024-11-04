@@ -5,5 +5,7 @@ tags:
   - power
   - low_power
 ---
-Clock Gating is used for power reduction.
 ![[Clock Gating.png]]
+
+- Clock Gating is used for power reduction.
+  时钟门控用于降低功耗
