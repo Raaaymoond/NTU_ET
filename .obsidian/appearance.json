@@ -6,7 +6,7 @@
   "baseFontSize": 17,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "Times New Roman,宋体",
   "monospaceFontFamily": "Consolas"
 }

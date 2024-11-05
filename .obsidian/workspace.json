@@ -25,44 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
+                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Path Allocation"
+              "title": "Heterojunction Electronic Devices"
             }
           },
           {
-            "id": "688e7132a1cb247b",
+            "id": "2615bf2c8d16de4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "单纯的，知识/Device/HBT/HBT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
-            "id": "28a58a73f85ff301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "单纯的，知识/Digital/Power/Low Power/Clock Gating/Clock Gating.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clock Gating"
+              "title": "HBT"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "Heterojunction Electronic Devices 的反向链接列表"
             }
           },
           {
@@ -180,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md"
               },
               "icon": "lucide-list",
-              "title": "readme 的大纲"
+              "title": "Heterojunction Electronic Devices 的大纲"
             }
           }
         ]
@@ -202,54 +188,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "688e7132a1cb247b",
+  "active": "01a32fe98dbe05bb",
   "lastOpenFiles": [
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Square-Root Carry-Select Adder/Square-Root Carry-Select Adder.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.png",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Register Allocation.md",
-    "单纯的，知识/Digital/Power/Low Power/Clock Gating/Clock Gating.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Architecture Synthesis.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Operation Scheduling/Operation Scheduling.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Design Synthesis.md",
-    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Logic Synthesis/Logic Synthesis.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
-    "课件/EE6306/CC/CC Lecture Slides.md",
-    "单纯的，知识/Digital/EDA Tools/Design Entry Tool/Design Entry Tool.md",
-    "单纯的，知识/Digital/EDA Tools/Testing/Testing.md",
-    "单纯的，知识/Digital/EDA Tools/Testing",
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/开卷考特供/Heterojunction Photonic (Optoelectronic) Devices.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Critical Thickness/Critical Thickness.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Lattice-Mismatched Heterostructures.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Stained Heterostructure/Strained Heterostructure.md",
+    "单纯的，知识/Device/HBT/HBT.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Unstrained Heterostructure/Unstrained Heterostructure.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Matched Heterostructures/Lattice-Matched Heterostructures.md",
+    "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
+    "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Vegard’s Law/Vegard’s Law.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Heterojunction/Heterojunction.md",
     "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic) Devices.md",
-    "单纯的，知识/Digital/Power/Low Power/Power-down Mode/Power-down Mode.md",
-    "单纯的，知识/Digital/Power/Low Power/Dynamic Voltage and Frequency Scaling/Dynamic Voltage and Frequency Scaling.md",
-    "单纯的，知识/Digital/Power/Low Power/Multiple Supply Voltages/Multiple Supply Voltages.md",
-    "单纯的，知识/Digital/Power/Low Power/Power Gating/Power Gating.md",
-    "单纯的，知识/Digital/Power/Switching Activity/Switching Activity.md",
-    "单纯的，知识/Digital/Power/Dynamic Consumption/Dynamic Consumption.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/Baugh-Wooley Array Multiplier/Baugh-Wooley Array Multiplier.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/Multiplications/Signed Multiplication/Signed Multiplication.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/Multiplier.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Wallace CSA Trees/Wallace CSA Trees.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Wallace CSA Trees/Wallace CSA Trees_3.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Wallace CSA Trees/Wallace CSA Trees_2.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Wallace CSA Trees/Wallace CSA Trees_1.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Comparisons of Wallace Tree and Dadda Tree/Pasted image 20241104090627.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Comparisons of Wallace Tree and Dadda Tree/Pasted image 20241104090619.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Dadda CSA Trees/Pasted image 20241104090439.png",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105213354.png",
+    "课件/EE6604/ZQ/Semiconductor Memories/Semiconductor Memories.md",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105220105.png",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105214700.png",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/开卷考特供/Heterojunction Electronic Devices.md",
+    "课件/EE6604/ZQ/Heterojunction Electronic Devices/开卷考特供/Heterojunction Electronic Devices.pdf",
+    "单纯的，知识/Device/Laser/Conditions/Carrier and Optical Confinements/Carrier and Optical Confinements.md",
+    "单纯的，知识/Device/Laser/Conditions/Optical Cavity/Optical Cavity.md",
+    "课件/EE6604/ZQ/Semiconductor Memories/Pasted image 20241105212205.png",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105205544.png",
+    "单纯的，知识/Device/Laser/Double-Heterojunction (DH) Laser/Double-Heterojunction (DH) Laser.md",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105205301.png",
+    "单纯的，知识/Device/Laser/Conditions/Population Inversion/Population Inversion.md",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/开卷考特供/Heterojunction Photonic (Optoelectronic) Devices.pdf",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105175548.png",
+    "课件/EE6604/ZQ/Semiconductor Memories/Pasted image 20241105175546.png",
+    "单纯的，知识/Device/Memories/Random Access Memory (RAM)/Random Access Memory (RAM).md",
+    "单纯的，知识/Device/Memories/Random Access Memory (RAM)",
+    "单纯的，知识/Device/Memories",
+    "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105174221.png",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Look-Ahead Adder/Carry-Look-Ahead Adder.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Bypass Adder/Carry-Bypass Adder.md",
+    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
+    "单纯的，知识/Digital/Power/Low Power/Clock Gating/Clock Gating.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Complementary Static CMOS Full Adder Cell.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Comparisons of Wallace Tree and Dadda Tree/Comparisons of Wallace Tree and Dadda Tree.md",
+    "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Register Allocation/Left-Edge Algorithm/Left-Edge Algorithm.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Select Adder/Linear Carry-Select Adder/Linear Carry-Select Adder.png",
+    "单纯的，知识/Digital/EDA Tools/Testing",
     "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Comparisons of Wallace Tree and Dadda Tree",
     "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree",
-    "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic/Pasted image 20241021204249.png",
     "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Pasted image 20241104073849.png",
-    "单纯的，知识/Digital/Arithmetic Modules/Shifter/Barrel Shifter/pic/Pasted image 20241104071205.png",
     "课件/EE6341/Zheng",
     "课件/EE6341/See",
-    "课件/EE6306/Goh",
-    "课件/EE6306/Gwee",
-    "课件/EE6604/ZQ/Semiconductor Memories/pic",
-    "课件/EE6604/ZQ/Semiconductor Memories",
     "单纯的，知识/Digital Circuits/Adders/Untitled.canvas",
     "Untitled.canvas"
   ]

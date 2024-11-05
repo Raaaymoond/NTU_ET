@@ -3,6 +3,7 @@ aliases:
 tags:
   - multiplier
   - csa_tree
+  - digital
 ---
 ![[Pasted image 20241104090627.png]]
 

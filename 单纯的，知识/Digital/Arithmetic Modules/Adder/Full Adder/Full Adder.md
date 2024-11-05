@@ -30,7 +30,7 @@ tags:
 可以把$S$和$C_o$定义由某些中间信号产生的信号。这些中间信号包括：
 - $G=AB$ 进位产生（carry generate）信号
 - $D=\overline{A}\ \overline{B}$ 进位取消（carry delete）信号
-- $P=A\oplus B$ 进位传播（carry propagate）信号
+- $P=A\oplus B$ 进位传播（carry propagate）信号，$G$和$D$的优先级比$P$高，所以在有些地方也会写成$P=A+B$
 
 ## Dynamic Implementation of P and G
 

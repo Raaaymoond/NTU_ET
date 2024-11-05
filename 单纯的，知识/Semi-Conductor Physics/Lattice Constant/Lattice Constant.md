@@ -3,6 +3,7 @@ aliases:
   - 晶格常数
 ---
 - Lattice constant follows [[Vegard’s Law]] well.
+  晶格常数非常遵守维加德定律
 - Example:
 	- $\mathrm{LC (InAs): 6.0583} \mathrm{\overset{\circ}{A}}$
 	- $\mathrm{LC (GaAs): 5.6533} \mathrm{\overset{\circ}{A}}$
