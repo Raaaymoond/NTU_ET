@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
+                "file": "单纯的，知识/Device/HBT/HBT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heterojunction Electronic Devices"
+              "title": "HBT"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
+                "file": "单纯的，知识/Device/HBT/HBT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Heterojunction Electronic Devices 的反向链接列表"
+              "title": "HBT 的反向链接列表"
             }
           },
           {
@@ -166,13 +166,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md"
+                "file": "单纯的，知识/Device/HBT/HBT.md"
               },
               "icon": "lucide-list",
-              "title": "Heterojunction Electronic Devices 的大纲"
+              "title": "HBT 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,10 +189,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "01a32fe98dbe05bb",
+  "active": "da52561cfa7db0fb",
   "lastOpenFiles": [
-    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Critical Thickness/Critical Thickness.md",
     "课件/EE6604/ZQ/Heterojunction Electronic Devices/Heterojunction Electronic Devices.md",
+    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic) Devices.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Bypass Adder/Carry-Bypass Adder.md",
+    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
+    "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Critical Thickness/Critical Thickness.md",
     "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Lattice-Mismatched Heterostructures.md",
     "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Lattice-Mismatched Heterostructures/Stained Heterostructure/Strained Heterostructure.md",
     "单纯的，知识/Device/HBT/HBT.md",
@@ -200,7 +204,6 @@
     "单纯的，知识/Semi-Conductor Physics/Lattice Constant/Lattice Constant.md",
     "单纯的，知识/Semi-Conductor Physics/Solid State Physics/Vegard’s Law/Vegard’s Law.md",
     "单纯的，知识/Semi-Conductor Physics/PN Junction/Heterojunction/Heterojunction/Heterojunction.md",
-    "课件/EE6604/ZQ/Heterojunction Photonic (Optoelectronic)  Devices/Heterojunction Photonic (Optoelectronic) Devices.md",
     "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105213354.png",
     "课件/EE6604/ZQ/Semiconductor Memories/Semiconductor Memories.md",
     "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105220105.png",
@@ -222,9 +225,7 @@
     "单纯的，知识/Device/Memories",
     "课件/EE6604/ZQ/Semiconductor Memories/pic/Pasted image 20241105174221.png",
     "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Look-Ahead Adder/Carry-Look-Ahead Adder.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Carry-Bypass Adder/Carry-Bypass Adder.md",
     "单纯的，知识/Digital/EDA Tools/Design Synthesis/Architecture Synthesis/Data Path Allocation/Data Path Allocation.md",
-    "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Full Adder.md",
     "单纯的，知识/Digital/Power/Low Power/Clock Gating/Clock Gating.md",
     "单纯的，知识/Digital/Arithmetic Modules/Adder/Full Adder/Complementary Static CMOS Full Adder Cell/Complementary Static CMOS Full Adder Cell.md",
     "单纯的，知识/Digital/Arithmetic Modules/Multiplier/CSA Tree/Comparisons of Wallace Tree and Dadda Tree/Comparisons of Wallace Tree and Dadda Tree.md",

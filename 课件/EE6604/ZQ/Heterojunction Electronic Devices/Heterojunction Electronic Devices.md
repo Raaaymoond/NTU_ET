@@ -64,9 +64,9 @@ tags:
   两种材料具有不同的带隙。可能有三种类型的带边排列：
 	- Straddling
 	- Staggered
-	  交错带隙
 	- Broken Gap
 - Each of these has unique and special band structure and device applications.
+- 考虑这个的时候需要把[[Vacuum Level]]对准（不是费米能级）
 
 ### Straddling Bandgap
 
