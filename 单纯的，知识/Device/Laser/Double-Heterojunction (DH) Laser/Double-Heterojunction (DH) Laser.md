@@ -54,7 +54,6 @@ A double heterojunction laser diode is connected in a closed circuit with a seri
 饱和电流$I_S=0.1\mathrm{A}$
 
 在2V正向电压时没有发射，在此时套用普通的pn结电流公式：$$I=I_S\left(e^\frac{V_F-IR_S}{V_T}-1\right)$$
-（呃啊我草泥马不要什么地方都把pn结公式里的减1省掉啊草泥马）
 
 代入饱和电流和热电压可以解得$$R_S=2.16\Omega$$
 

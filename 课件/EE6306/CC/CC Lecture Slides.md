@@ -127,4 +127,4 @@ A Generic Digital System consists of:
 - [[Design Entry Tool|Design Entry]]
 - [[Analysis]] and [[Verification]]
 - [[Design Synthesis|Synthesis]] and [[Implementation]]
-- Testing
+- [[Testing]]

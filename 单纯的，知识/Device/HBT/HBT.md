@@ -61,8 +61,11 @@ Thereffore, with a simple n-p homojunction for the emitter-base, the performance
 ## Remedy
 
 - Use a large bandgap material for n-type emitter. The deivce will then become a heterojunction bipolar transistor (HBT)
+  在n型发射极使用带隙更大的材料。这个器件会成为异质结双极型晶体管
 - The main advantage of HBT is the high emitter efficiency
+  HBT主要的优势是发射极高效率
 - HBTs also have high speed and high frequency capability in circuit operation
+  HBT也有高速和高截止频率的电路工作特性
 
 ![[HBT_FIG3.png|A HBT with an n-AlGaAs emitter and a p-GaAs base transistor (a) Device structure, (b) Band diagram at thermal equilibrium]]
 

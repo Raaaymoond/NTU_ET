@@ -110,7 +110,7 @@ The radiation from stimualted emission if **coherent** because all photons emitt
 - Light incidence is from a $45^\circ$ polished substrate surface
   光从45°抛光的衬底表面射入
 - Note that n-type QWIPs can not detect normal incident photons because of the polarization selection rules of intersubband transitions.
-  注意：由于带内跃迁偏振选择规则的限制，n型QWIP不能检测垂直入射的光子
+  注意：由于带内跃迁偏振选择规则的限制，n型QWIP不能检测垂直入射的光子。垂直入射时光子的电场方向在电子跃迁方向上没有分量，不能激发电子。
 - If ones use n-type QWIPs to detect normal incident photons, gratings on top should be fabricated so that the normal incidence could have an angle when reaches the QWs.
   如果要用n型QWIP检测垂直入射的光子，其上需要制造一个光栅使入射光在抵达量子阱时存在一定角度
 

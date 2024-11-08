@@ -87,7 +87,7 @@
 
 ($0V@D_1$ and $3V@D_2$ for a $V_{DD}$ of $3V$)
 1. With $\text{Wordline}(\text{WL})=0V$, the two bitlines for the cell are selected, and precharged to, say, $1.5V$.
-   当$\text{字线}(\text{WL})=0V$时，单元的两个位线被选中，并预充电至例如1.5V。
+   当$\text{字线}(\text{WL})=0V$时，单元的两个位线(BL)被选中，并预充电至例如1.5V。
 2. The access transistors $M_{A1}$ and $M_{A2}$ are then turned **ON** (or **accessed**) by raising Wordline(WL) to $V_{DD}=3V$
    然后通过将字线(WL)提高到$(V_{DD}=3V)$，使访问晶体管$M_{A1}$和$M_{A2}$导通（访问）。
    Conditions prevailing at this time are as follows:
@@ -99,5 +99,19 @@
 	- $M_{A2}$ is ON, Saturation
 	  $V_{GS}>V_T$ as $(3-1.5)>1$
 	  $V_{DS}>V_{GS}-V_T$ as $(3-1.5)>\left(\left(3-1.5\right)-1\right)$
+	- $M_{P1}$ is OFF
+	  $V_{GS}=3-3=0V>V_T=-1V$
+	- $M_{N2}$ is OFF
+	  $V_{GS}=0-0=0V<V_T=1V$
+
+- The precharged bitline capacitors carry currents $i_1$ and $i_2$ through the access transistors.
+  预充电位线电容通过存取晶体管传输电流$i_1$和$i_2$
+- The BL voltage will drop due to **discharging** of the BL capacitor and the voltage will increase due to **charging** of the capacitor.
+  位线电容的放电会导致位线的电压下降。位线电容充电将导致位线电压上升。
+
+- Sense Amplifier senses this change to READ the data on the cell as a ‘0’.
+  
+- Under Steady state, $V_{BL}= 0V$ and $V_{BL}=3V$
+- Any disturbance in the node voltages at $D_1$ and $D_2$ due to currents $i_1$ and $i_2$ are quickly corrected by the latch operation and the originl data stored in the cell is maintained.
 
 ###### Read 1
