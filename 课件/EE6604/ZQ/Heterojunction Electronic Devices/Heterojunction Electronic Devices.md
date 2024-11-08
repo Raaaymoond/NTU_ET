@@ -109,7 +109,7 @@ $$\displaylines{
 - The ratio $\Delta E_C/\Delta E_V$ varies with material systems and is not easy to be determined.
   $\Delta E_C/\Delta E_V$的比率随材料系统而变化且不易确定。
 - The $\mathrm{GaAs/AlAs}$ and $\mathrm{GaAs/AlGaAs}$ systems have type I structure, and the ratio $\Delta E_C/\Delta E_V$ is about 60:40.
-  $\mathrm{GaAs/AlAs}$和$\mathrm{GaAs/AlGaAs}$系统具有Ⅰ型结构（？），$\Delta E_C/\Delta E_V$的比率约为60:40。
+  $\mathrm{GaAs/AlAs}$和$\mathrm{GaAs/AlGaAs}$系统具有Ⅰ型结构，$\Delta E_C/\Delta E_V$的比率约为60:40。
 
 - The band diagram of Metal/AlGaAs/GaAs [[Heterojunction|Heterostructure]] under [[Thermal Equilibrium]]
 ![[Pasted image 20241030020138.png#pic_center|The band diagram of Metal/AlGaAs/GaAs Heterostructure]]
