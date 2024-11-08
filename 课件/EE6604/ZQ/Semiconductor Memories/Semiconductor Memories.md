@@ -110,8 +110,36 @@
   位线电容的放电会导致位线的电压下降。位线电容充电将导致位线电压上升。
 
 - Sense Amplifier senses this change to READ the data on the cell as a ‘0’.
-  
+  感应放大器检测到此变化以读取单元中的数据“0”。
 - Under Steady state, $V_{BL}= 0V$ and $V_{BL}=3V$
+  在稳态下，$V_{BL}= 0V$、$V_{BL}=3V$
 - Any disturbance in the node voltages at $D_1$ and $D_2$ due to currents $i_1$ and $i_2$ are quickly corrected by the latch operation and the originl data stored in the cell is maintained.
+  由于电流$i_1$和$i_2$引起的节点$D_1$和$D_2$电压的任何扰动都会被锁存操作迅速校正，单元中存储的原始数据得以保持。
+
+![[Pasted image 20241108180024.png|Final read state of the 6-T cell]]
+![[Pasted image 20241108180258.png#pic_center|Waveforms of the 6-T cell read operation]]
 
 ###### Read 1
+
+- Read “1” operation follows the same concept as before, except for the exchange of the sources and drains of the access transistors (the terminal with lower potential is source).
+  读“1”的流程基本和前面一样，除了两个存取晶体管的漏极与源极位置互换了
+- Note that there is a delay of approximately 20 ns for this particular cell.
+  注意这一个单元的延时大概有20ns
+
+##### Example
+
+Calculate $i_1(0^+)$ and $i_2(0^+)$ in the READ ‘0’ if all devices have $W/L = 2/1$. Assume $K^\prime_n=25\mu A/V^2$, $V_{T0}=0.7V$, $\gamma=0.5V^{1/2}$ , and $2\phi_F=0.6V$.
+
+###### Solution
+一点复习，免得忘了：
+- $K^\prime_n$为[[Process Transconductance Parameter|工艺跨导参数]]
+- $\gamma$为[[Body Effect Coefficient|体效应参数]]
+- $\phi_F$为表面电势
+
+$i_1$对应的管子是$M_{A1}$，所以$V_{GS}=3-0=3V$，$V_{SB}=0-0=0V$，$V_{DS}=1.5V$，在线性区$$V_{Tn}=V_{TO}+\gamma\left(\sqrt{2\phi_F+V_{SB}}-\sqrt{2\phi_F}\right)=0.7V$$
+代入线性区电流公式$$i_1=K_n^\prime\frac{W}{L}\left(V_{GS}-V_{Tn}-\frac{V_{DS}}{2}\right)V_{DS}=116.25\mu A$$注意这里的单位取决于工艺跨导参数的单位（$\mu A$）
+
+$i_2$对应的管子是$M_{A2}$，所以$V_{GS}=3-1.5=1.5V$，$V_{SB}=1.5V$，$V_{DS}=3-1.5=1.5V$，在饱和区
+$$V_{Tn}=V_{TO}+\gamma\left(\sqrt{2\phi_F+V_{SB}}-\sqrt{2\phi_F}\right)=1.03727V\approx1.04V$$
+代入饱和区电流公式$$i_{2}=\frac{1}{2}K_n^\prime\frac{W}{L}\left(V_{GS}-V_{Tn}\right)^2=5.29\mu A$$
+怪常规的。
